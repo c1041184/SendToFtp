@@ -12,6 +12,7 @@ namespace SendToFtp
         {
             Console.WriteLine("hello");
 
+
             Console.ReadLine();
         }
     }
